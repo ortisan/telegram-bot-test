@@ -1,0 +1,18 @@
+{
+  "name": "echo "# telegram-bot-test" >> README.md",
+  "version": "1.0.0",
+  "description": "Bot of telegram that runs commands on user terminal.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "telegram"
+  ],
+  "author": "tentativafc",
+  "license": "MIT",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.27.1"
+  }
+}
