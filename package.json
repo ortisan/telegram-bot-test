@@ -1,5 +1,5 @@
 {
-  "name": "echo "# telegram-bot-test" >> README.md",
+  "name": "telegram-bot-test",
   "version": "1.0.0",
   "description": "Bot of telegram that runs commands on user terminal.",
   "main": "index.js",
